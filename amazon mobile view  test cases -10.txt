@@ -1,0 +1,14 @@
+                            Amazon mobile view test cases
+  
+
+
+1. To check user should login with vaild username and password.
+2. verify that the user is redirected to the account page after successful login.
+3. To check the search bar product to show correct product.
+4. To add a 2 item show in vaild in add cart click the view button should show a item.
+5. To click a size in shoes should show in a  correct  size. 
+6. To click a color's should valid  color's show in a page .
+7. To click a buy button should  go a next shopping wallet's.
+8. should verify a correct price in a total amount.
+9. To click a net banking page should go to next page to show in a  paytm are gpay button.
+10.To finish  the purchased a produt should show in a verification message.

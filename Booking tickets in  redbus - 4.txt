@@ -1,0 +1,14 @@
+                                booking tickets in redbus
+   
+
+1.Launch the url https://www.redbus.in/bus-tickets.
+2.To click the url button should  go in a valid  correct page.
+3.To click a from button and To button should show in state names.
+4.To click a search buses button should show in buses in a today.
+5.To click a any one buses next should in a seats.
+6.To should show the how many bus seats.
+7.next should click a sheat button.
+8.To show a amount.
+9.next show a boarding & dropping points.
+10.To should show a fill passenger details button then complete the  process means then 
+show a verification message
